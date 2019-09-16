@@ -1,0 +1,48 @@
+.box {
+	margin-left: 400px;
+	margin-right: 50px;
+	width: 40vw;
+	height: 50vh;
+}
+.bordered {
+	border-bottom: solid 3px black;
+	border-top: solid 3px black;
+}
+img {
+	float: right;
+	height: 180px;
+	width: 180px;
+}
+h1 {
+	text-align: center;
+}
+.square {
+	height: 150px;
+	width: 450px;
+	text-align: left;
+}
+a {
+    font-weight: bold;
+    color: black;
+	text-align: center;
+}
+.links {
+	text-align: center;
+	margin-top: 30px;
+}
+.link1 {
+	border-right: solid 1px black;
+}
+.link2 {
+    border-right: solid 1px black;
+}
+.link3 {
+    border-right: solid 1px black;
+}
+.link4 {
+    border-right: solid 1px black;
+}
+
+nav {
+	text-align: center;
+}
