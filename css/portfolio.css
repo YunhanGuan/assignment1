@@ -1,0 +1,16 @@
+
+
+.bordered {
+	border-bottom: solid 3px black;
+	border-top: solid 3px black;
+}
+.square {
+	text-align: left;
+}
+h1 {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+}
